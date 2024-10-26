@@ -21,7 +21,11 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   # Enable Breadcrumb Navigation
   ShowBreadCrumbs = true
-  
+
+[params.Social]
+  twitter = "mindgrovestudios"
+  github = "mindgrovestudios"  
+
 [params.homeInfoParams]
   Title = "The Neural Library"
   Content = "Where Minds Browse Beyond Shelves"
@@ -42,3 +46,10 @@ theme = "PaperMod"
     name = "Archives"
     url = "/archives/"
     weight = 30
+
+[build]
+  publish = "public"
+  command = "hugo"
+
+[build.environment]
+  HUGO_VERSION = "0.135.5"
