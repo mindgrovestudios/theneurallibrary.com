@@ -53,3 +53,8 @@ theme = "PaperMod"
 
 [build.environment]
   HUGO_VERSION = "0.135.5"
+
+[permalinks]
+  posts = '/:year/:month/:title/'
+  books = '/books/:title/'
+

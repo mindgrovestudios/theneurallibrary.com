@@ -15,7 +15,7 @@ author: MK
 showToc: true
 TocOpen: false
 ---
-
+![](how-the-world-really-works-cover.png)
 ## Book Details
 - **Title**: How the World Really Works
 - **Author**: Vaclav Smil
