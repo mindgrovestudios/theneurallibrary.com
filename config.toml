@@ -1,0 +1,44 @@
+baseURL = "https://theneurallibrary.com/"
+languageCode = "en-us"
+title = "The Neural Library - Where Minds Browse Beyond Shelves"
+theme = "PaperMod"
+
+# Enable tags and categories
+[taxonomies]
+  category = "categories"
+  tag = "shelves"
+  
+[params]
+  # Enable dark mode toggle
+  defaultTheme = "auto"
+  # Enable Table of Contents
+  ShowToc = true
+  # Enable Reading Time
+  ShowReadingTime = true
+  # Enable Share buttons
+  ShowShareButtons = true
+  # Enable Post Navigation
+  ShowPostNavLinks = true
+  # Enable Breadcrumb Navigation
+  ShowBreadCrumbs = true
+  
+[params.homeInfoParams]
+  Title = "The Neural Library"
+  Content = "Where Minds Browse Beyond Shelves"
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "shelves"
+    name = "Shelves"
+    url = "/shelves/"
+    weight = 20
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 30

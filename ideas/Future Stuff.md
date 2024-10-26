@@ -1,0 +1,17 @@
+- Library System:
+    - "Shelves" (Main categories)
+    - "Collections" (Themed series)
+    - "Reading Rooms" (Special features)
+    - "Study Carrels" (Deep analyses)
+    - "Card Catalog" (Index/Search)
+- Content Types:
+    - "Volume Reviews" (Full book reviews)
+    - "Library Notes" (Quick insights)
+    - "Reading Pathways" (Book connections)
+    - "Librarian's Log" (Your personal insights)
+    - "Guest Cards" (Guest contributions)
+- Community Features:
+    - "Head Librarian" (You)
+    - "Guest Librarians" (Contributors)
+    - "Library Members" (Regular readers)
+    - "Reading Circles" (Discussion groups)
